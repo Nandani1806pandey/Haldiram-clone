@@ -38,6 +38,12 @@ Products
 About Us
 
 Contact
+## 📸 Screenshots
+![Screenshot 2025-01-24 222353](https://github.com/user-attachments/assets/3cbfdd70-b298-4add-bf8a-e3a2964fd5f1)
+![Screenshot 2025-01-24 222155](https://github.com/user-attachments/assets/6a179956-75b5-4eee-909d-5c1fb325cb51)
+![Screenshot 2025-01-24 222408](https://github.com/user-attachments/assets/45a2b0a7-33a7-4954-b70d-ae6cf72c5f49)
+
+
 
 Each section is designed to closely resemble the original Haldiram website while adding a touch of creativity through animations and transformations.
 
